@@ -1,0 +1,11 @@
+Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column,
+each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contain all of the
+digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution.
+Wordoku is a variation of the classic sudoku, where there are letters instead of numbers, that has no fuctional differences.
+Killer sudoku is a puzzle that combines elements of sudoku and kakuro. A cell is a single square that contains one number in
+the grid,rows and columns are the horizontal and vertical lines of 9 cells and notet is a 3X3 grid of cells, also called a box.
+In killer sudoku we also have cages, which are the grouping of cells denoted by a dotted line or by individual colors, and a house
+that is any nonrepeating set of 9 cells: can be used as a general term for "row, column, or nonet" (or, in Killer X variants, "long
+diagonal"). Killer sudoku has the extra rule that the sum of all numbers in a cage must match the small number printed in its
+corner and no number appears more than once in a cage. (This is the standard rule for killer sudokus, and implies that no cage
+can include more than 9 cells). Duidoku is a variation that is played by to players in a 4X4 grid.
